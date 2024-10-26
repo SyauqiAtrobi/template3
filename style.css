@@ -6,29 +6,30 @@ body{
 
 .gambar{
     margin-top: 3%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
     background-color: white;
     border-radius: 5px;
     box-shadow: 1px 1px 5px black;
 }
 .gambar .p1{
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-left: 3%;    
     float: inline-start;
     margin-top: 10%;
-    width: 50%;
+    width: 20rem;
 }
 .gambar h1{
-    width: 50%;
+    width: 20rem;
     margin-left: 5%;
     margin-top: -1rem;
-    font-size: 2.5rem; 
+    font-size: 2rem; 
     border: 1px solid transparent;
     float: inline-start;
 }
 .gambar img{
-    width: 20rem;
+    width: 40%;
 }
 .gambar .p2{
     float: inline-start;
@@ -42,7 +43,7 @@ body{
     margin-top: 2%;
     border: 1px solid;
     border-radius: 50px;
-    width: 40rem;
+    width: auto;
     height: 8rem;
     margin-left: auto;
     margin-right: auto;
@@ -52,7 +53,7 @@ body{
 }
 
 .item1, .item2, .item3{
-    margin-top: 3%;
+    margin-top: 5%;
     margin-left: auto;
     margin-right:auto;
 }
